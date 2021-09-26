@@ -23,7 +23,6 @@ public class ReverseXor {
     }
 
     /**
-     *
      * @param inputChar original char
      * @param passwordChar password char
      * @return encrypted char
