@@ -1,5 +1,9 @@
 package com.metal.reversexor;
 
+/**
+ * Set of methods for applying ReverseXor encryption.
+ * @author SoldierFC , A.K.A. MetalDroid
+ */
 public class ReverseXor {
 
     /**
